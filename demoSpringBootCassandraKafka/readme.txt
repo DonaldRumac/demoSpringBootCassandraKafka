@@ -8,3 +8,6 @@ cmdln1:
 zookeeper-server-start.bat ../../config/zookeeper.properties
 cmdln2:
 kafka-server-start.bat ../../config/server.properties
+
+
+CHANGELOG:
